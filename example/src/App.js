@@ -1,13 +1,9 @@
 import React, { Component } from 'react'
-
-import ExampleComponent from 'react-catcher'
-
+import Catcher from 'react-catcher';
 export default class App extends Component {
-  render () {
+  render() {
     return (
-      <div>
-        <ExampleComponent text='Modern React component module' />
-      </div>
+      <h1>No error!</h1>
     )
   }
 }
