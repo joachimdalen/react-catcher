@@ -15,11 +15,9 @@
 
 .React-Catcher__content__title {
   color: rgba(255, 0, 0, 0.71);
-  text-transform: capitalize;
 }
 .React-Catcher__content__title--regular {
-  color: white;
-  text-transform: capitalize;
+  color: #777;
 }
 
 .React-Catcher__overlay {

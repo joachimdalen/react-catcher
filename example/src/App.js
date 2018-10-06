@@ -1,5 +1,4 @@
-import React, { Component } from 'react'
-import Catcher from 'react-catcher';
+import React, { Component } from 'react';
 export default class App extends Component {
   render() {
     return (
